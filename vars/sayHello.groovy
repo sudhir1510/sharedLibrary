@@ -1,3 +1,3 @@
 def call(String name = 'human') {
-  echo "luv u , ${name}."
+  echo "You are awesome , ${name}."
 }
