@@ -1,5 +1,6 @@
 import com.cleverbuilder.Student
 
 def call(String name = 'human') {
- Student.getMessage( name )
+ Student st = new Student()
+ st.getMessage( name )
 }
