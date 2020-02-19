@@ -1,4 +1,4 @@
-import src.com.cleverbuilder.Student
+import com.cleverbuilder.Student
 
 def call(String name = 'human') {
   echo Student.getMessage() , "${name}."
