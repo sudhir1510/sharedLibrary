@@ -1,7 +1,7 @@
 package com.cleverbuilder
 
 public class Student {
-   def static String getMessage( String name ){
+   def String getMessage( String name ){
       print "You are awesome , ${name}"
    }
 }
