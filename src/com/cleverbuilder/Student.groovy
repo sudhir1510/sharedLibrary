@@ -1,4 +1,4 @@
-package src.com.cleverbuilder
+package com.cleverbuilder
 
 public class Student {
    def static String getMessage(){
