@@ -1,3 +1,5 @@
+import com.cleverbuilder
+
 def call(String name = 'human') {
-  echo "You are awesome , ${name}."
+  echo Student.getMessage() , ${name}."
 }
