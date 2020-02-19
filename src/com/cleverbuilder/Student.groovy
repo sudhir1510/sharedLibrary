@@ -1,6 +1,6 @@
 package src.com.cleverbuilder
 
-class Student {
+public class Student {
    def static String getMessage(){
       rerurn "You are awesome"
    }
